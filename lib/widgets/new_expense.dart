@@ -40,6 +40,15 @@ class _NewExpenseState extends State<NewExpense> {
     return Padding(
       padding: const EdgeInsets.all(16),
       child: Column(children: [
+        Row(
+          children: const [
+            Text(
+              'Add Expense',
+              style: TextStyle(fontSize: 20),
+            ),
+            Spacer()
+          ],
+        ),
         TextField(
           controller: _titleController,
           maxLength: 50,
