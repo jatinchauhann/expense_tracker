@@ -1,6 +1,6 @@
 # Flutter Expense Tracker
 
-A Flutter project adapted from a udemy course by Maximilian Schwarzmüller
+A Flutter project adapted from a udemy course by Maximilian Schwarzmüller ([Link to Course](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/))
 
 ## Getting Started
 
