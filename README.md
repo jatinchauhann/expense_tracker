@@ -16,4 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-![Alt text](/images/main_screen.jpg?raw=true "Main Screen") ![Alt text](/images/add_expense_screen.jpg?raw=true "Add Expense Screen")
+Main Screen        |  Add Expense Screen
+:-------------------------:|:-------------------------:
+![Alt text](/images/main_screen.jpg?raw=true "Main Screen")  |  ![Alt text](/images/add_expense_screen.jpg?raw=true "Add Expense Screen")
