@@ -1,6 +1,6 @@
-# expense_tracker
+# Flutter Expense Tracker
 
-A new Flutter project.
+A Flutter project adapted from a udemy course by Maximilian Schwarzmüller
 
 ## Getting Started
 
@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+![Alt text](/images/main_screen.jpg?raw=true "Main Screen") ![Alt text](/images/add_expense_screen.jpg?raw=true "Add Expense Screen")
