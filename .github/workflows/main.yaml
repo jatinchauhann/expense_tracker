@@ -22,10 +22,9 @@ jobs:
         with:
           flutter-version: '3.7.12'
       - run: flutter clean
-      # - run: flutter pub get
+      - run: flutter pub get
       # - run: flutter test
-      # - run: flutter build apk --debug --split-per-abi
-      - run: flutter build apk --target-platform android-arm,android-arm64,android-x64
+      - run: flutter build apk --debug --split-per-abi
       - run: |
           flutter build ios --no-codesign
           cd build/ios/iphoneos
